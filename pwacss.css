@@ -2,7 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  line-height: 1.5;
+  line-height: 1;
   backface-visibility: hidden;
 }
 
