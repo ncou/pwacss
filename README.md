@@ -14,8 +14,7 @@ The Modern Normalize for PWA.
 9. Turns images into blocks
 10. Prevents images from being resized more than their actual size
 11. Makes HTML fully responsive by default: images, canvases, tables and other quirky tags
-12. Sets `cursor` to `pointer` for all interactive elements
-13. Disable IOS quirks that aren't useful for PWA
+12. Disable IOS quirks that aren't useful for PWA
 
 ## Usage
 ```HTML
