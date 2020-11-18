@@ -18,5 +18,5 @@ The Modern Normalize for PWA.
 
 ## Usage
 ```HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/uyouthe/pwacss/pwacss.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mvoloskov/pwacss/pwacss.min.css">
 ```
